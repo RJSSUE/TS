@@ -3,13 +3,13 @@
 Gem::Specification.new do |spec|
   spec.name          = "alembic-jekyll-theme"
   spec.version       = "4.1.0"
-  spec.authors       = ["David Darnes"]
-  spec.email         = ["me@daviddarnes.com"]
+  spec.authors       = ["Jingshu Rui"]
+  spec.email         = ["jingshu_rui@berkeley.edu"]
 
-  spec.summary       = %q{A Jekyll boilerplate theme designed to be a starting point for any Jekyll website.}
-  spec.description   = "A Jekyll boilerplate theme designed to be a starting point for any Jekyll website. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately."
-  spec.homepage      = "https://alembic.darn.es"
-  spec.license       = "MIT"
+  spec.summary       = %q{A Taylor Swift Songlist designed for Swifties.}
+  spec.description   = "A Taylor Swift Songs collection designed for Swifties."
+  spec.homepage      = "https://RJSSUE.github.io/TS/"
+  spec.license       = "Berkeley"
 
   spec.metadata["plugin_type"] = "theme"
 
