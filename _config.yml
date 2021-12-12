@@ -91,7 +91,7 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Taylor Swift Songs" # Site name or title, also used in jekyll-seo-tag
 description: "This is a starting point for Swifties! Find all Taylor's Songs here~" # Site description and default description, also used in jekyll-seo-tag
-url: "https://rjssue.github.io/TS/" # Site url, also used in jekyll-seo-tag
+url: "https://rjssue.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: "/TS"
 repo: "https://github.com/RJSSUE/TS"
 email: "jingshu_rui@berkeley.edu"
