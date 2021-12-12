@@ -54,7 +54,7 @@ sass:
   style: compressed # Style compression
 permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
 excerpt_separator: <!-- more --> # Marks end of excerpt in posts
-timezone: Europe/London # Timezone for blog posts and alike
+timezone: America/Los_Angeles # Timezone for blog posts and alike
 
 # 5. Collections
 collections:
@@ -90,7 +90,6 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Taylor Swift Songs" # Site name or title, also used in jekyll-seo-tag
-logo: "/TS/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "This is a starting point for Swifties! Find all Taylor's Songs here~" # Site description and default description, also used in jekyll-seo-tag
 url: "https://rjssue.github.io/TS/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
