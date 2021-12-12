@@ -2,8 +2,7 @@
 title: Tim McGraw
 categories:
 - Taylor Swift
-feature_image: 
-https://picsum.photos/2560/600?image=733 
+feature_image: "https://upload.wikimedia.org/wikipedia/zh/0/00/Taylor_Swift_album.jpg" 
 --- 
 He said the way my blue eyes shined
 Put those Georgia stars to shame that night

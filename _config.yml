@@ -59,9 +59,9 @@ timezone: America/Los_Angeles # Timezone for blog posts and alike
 # 5. Collections
 collections:
   posts:
-    title: Songs # Needed for Siteleaf
+    title: Taylor Swift Songs # Needed for Siteleaf
     output: true
-    description: "Taylor Swift Songs" # The post list page content
+    description: "Songlist from all TS albums" # The post list page content
     feature_text: |
       Welcome to Taylor Swift Songlist
     feature_image: "https://picsum.photos/2560/600?image=866"
