@@ -95,6 +95,7 @@ url: "https://rjssue.github.io/TS/" # Site url, also used in jekyll-seo-tag
 baseurl: "/TS"
 repo: "https://github.com/RJSSUE/TS"
 email: "jingshu_rui@berkeley.edu"
+logo: "/assets/logos/logo.png" # Site logo, also used in jekyll-seo-tag
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
 # google_analytics: ""
