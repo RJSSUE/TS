@@ -1,5 +1,5 @@
 ---
-title: White Horse (Taylor’s Version)
+title: White Horse
 categories:
 - Fearless (Taylor’s Version)
 feature_image: https://upload.wikimedia.org/wikipedia/en/5/5b/Fearless_%28Taylor%27s_Version%29_%282021_album_cover%29_by_Taylor_Swift.png
@@ -85,3 +85,7 @@ It's too late to catch me now
 
 {% include video.html id="D1Xr-JFLxik" %}
 
+
+
+
+ {% include figure.html image="https://upload.wikimedia.org/wikipedia/en/8/86/Taylor_Swift_-_Fearless.png" caption="Original 2008-11-11 Re-recording 2021-04-09" %}

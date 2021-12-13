@@ -1,5 +1,5 @@
 ---
-title: Come In With the Rain (Taylor’s Version)
+title: Come In With the Rain
 categories:
 - Fearless (Taylor’s Version)
 feature_image: https://upload.wikimedia.org/wikipedia/en/5/5b/Fearless_%28Taylor%27s_Version%29_%282021_album_cover%29_by_Taylor_Swift.png
@@ -63,3 +63,6 @@ That you'll come in with the rain
 I could go back to every laugh
 
 But I don't wanna go there anymore
+
+
+ {% include figure.html image="https://upload.wikimedia.org/wikipedia/en/8/86/Taylor_Swift_-_Fearless.png" caption="Original 2008-11-11 Re-recording 2021-04-09" %}

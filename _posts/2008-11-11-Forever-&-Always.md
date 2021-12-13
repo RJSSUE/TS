@@ -1,5 +1,5 @@
 ---
-title: Forever & Always (Taylor’s Version)
+title: Forever & Always
 categories:
 - Fearless (Taylor’s Version)
 feature_image: https://upload.wikimedia.org/wikipedia/en/5/5b/Fearless_%28Taylor%27s_Version%29_%282021_album_cover%29_by_Taylor_Swift.png
@@ -10,7 +10,7 @@ I believe it was a Tuesday when I caught your eye
 
 And we caught onto something
 
-I hold onto the night
+I hold on to the night
 
 You looked me in the eye and told me you loved me
 
@@ -22,7 +22,7 @@ This thing is breaking down, we almost never speak
 
 I don't feel welcome anymore
 
-Baby, what happened? Please tell me
+What happened? Please, tell me
 
 'Cause one second it was perfect
 
@@ -32,15 +32,15 @@ And I stare at the phone, he still hasn't called
 
 And then you feel so low you can't feel nothing at all
 
-And you flashback to when he said, "forever and always"
+And you flashback to when he said, "Forever and always"
 
-Oh, and it rains in your bedroom
+And it rains in your bedroom
 
 Everything is wrong
 
 It rains when you're here and it rains when you're gone
 
-'Cause I was there when you said, "forever and always"
+I was there when you said, "Forever and always"
 
 Was I out of line?
 
@@ -64,7 +64,7 @@ And I stare at the phone, he still hasn't called
 
 And then you feel so low you can't feel nothing at all
 
-And you flashback to when he said, "forever and always"
+You flashback to when he said, "Forever and always"
 
 Oh, and it rains in your bedroom
 
@@ -72,17 +72,27 @@ Everything is wrong
 
 It rains when you're here and it rains when you're gone
 
-'Cause I was there when you said, "forever and always"
+I was there when you said, "Forever and always"
 
 You didn't mean it baby, I don't think so
 
-Oh, back up, baby, back up
+Oh, oh-oh, oh-oh-oh
 
-Did you forget everything?
+Oh-oh, oh-oh-oh
 
 Back up, baby, back up
 
-Did you forget everything?
+Did you forget everythi-i-ing?
+
+Back up, baby, back up
+
+Did you forget everythi-i-ing?
+
+Back up, baby, back up
+
+Please, back up, oh, back up
+
+Back up, baby, back up
 
 'Cause it rains in your bedroom
 
@@ -90,13 +100,13 @@ Everything is wrong
 
 It rains when you're here and it rains when you're gone
 
-'Cause I was there when you said, "forever and always"
+I was there when you said, "Forever and always"
 
-Oh, I stare at the phone, he still hasn't called
+And I stare at the phone, he still hasn't called
 
 And then you feel so low you can't feel nothing at all
 
-And you flashback to when we said, "forever and always"
+You flashback to when we said forever and always
 
 And it rains in your bedroom
 
@@ -104,8 +114,8 @@ Everything is wrong
 
 It rains when you're here and it rains when you're gone
 
-'Cause I was there when you said, "forever and always"
+I was there when you said, "Forever and always"
 
 You didn't mean it baby
 
-You said, "forever and always," yeah
+You said, "Forever and always," yeah

@@ -1,5 +1,5 @@
 ---
-title: That’s When (Taylor’s Version) [From the Vault]
+title: That’s When
 categories:
 - Fearless (Taylor’s Version)
 feature_image: https://upload.wikimedia.org/wikipedia/en/5/5b/Fearless_%28Taylor%27s_Version%29_%282021_album_cover%29_by_Taylor_Swift.png
