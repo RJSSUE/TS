@@ -123,8 +123,8 @@ navigation_header:
   url: /elements/
 - title: Blog
   url: /blog/
-- title: Categories
-  url: /categories/
+- title: Albums
+  url: /albums/
 - title: Search
   url: /search/
 

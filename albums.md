@@ -1,6 +1,6 @@
 ---
 title: Albums
 layout: categories
-excerpt: "Category index"
+excerpt: "Album index"
 aside: true
 ---
