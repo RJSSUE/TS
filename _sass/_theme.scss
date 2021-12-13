@@ -48,7 +48,8 @@ body {
   margin-bottom: 1.6rem;
   text-align: center;
   background: $featureBackgroundColour;
-  background-size: cover;
+  background-size: contain;
+  background-repeat: no-repeat;
   background-position: center;
   .container {
     min-height: 35vh;
