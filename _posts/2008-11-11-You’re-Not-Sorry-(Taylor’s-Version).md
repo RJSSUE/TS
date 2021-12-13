@@ -4,6 +4,11 @@ categories:
 - Fearless (Taylor’s Version)
 feature_image: https://upload.wikimedia.org/wikipedia/en/5/5b/Fearless_%28Taylor%27s_Version%29_%282021_album_cover%29_by_Taylor_Swift.png
 --- 
+
+{% include figure.html image="https://upload.wikimedia.org/wikipedia/en/5/5b/Fearless_%28Taylor%27s_Version%29_%282021_album_cover%29_by_Taylor_Swift.png" caption="Re-recording 2021-04-09" position="right" %}
+
+{% include figure.html image="https://upload.wikimedia.org/wikipedia/en/8/86/Taylor_Swift_-_Fearless.png" caption="Original 2008-11-11" position="left" %}
+
 All this time I was wasting hoping you would come around
 
 I've been giving out chances every time and all you do is let me down
