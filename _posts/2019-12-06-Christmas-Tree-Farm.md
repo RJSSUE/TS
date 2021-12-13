@@ -1,7 +1,7 @@
 ---
 title: Christmas Tree Farm
 categories:
-- Christmas Tree Farm
+- Single
 feature_image: https://upload.wikimedia.org/wikipedia/en/e/e6/Taylor_Swift_-_Christmas_Tree_Farm.png
 --- 
 

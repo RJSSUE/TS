@@ -1,7 +1,7 @@
 ---
 title: Safe & Sound
 categories:
-- The Hunger Games Songs from District 12 and Beyond
+- Single
 feature_image: https://upload.wikimedia.org/wikipedia/en/3/3c/Taylor_Swift_-_Safe_%26_Sound_%28feat._The_Civil_Wars%29.png
 --- 
 I remember tears streaming down your face

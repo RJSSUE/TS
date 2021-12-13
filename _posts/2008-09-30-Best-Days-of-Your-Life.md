@@ -1,7 +1,7 @@
 ---
 title: Best Days of Your Life
 categories:
-- Kellie Pickler
+- Single
 feature_image: https://upload.wikimedia.org/wikipedia/en/4/48/Kellie_pickler_album.jpg
 --- 
 Cause I'll be there, in the back of your mind

@@ -1,7 +1,7 @@
 ---
 title: Highway Don't Care
 categories:
-- Two Lanes of Freedom
+- Single
 feature_image: https://upload.wikimedia.org/wikipedia/en/0/0d/TMG_-_Highway_Dont_Care_cover.png
 --- 
 Bet your window's rolled down and your hair's pulled back

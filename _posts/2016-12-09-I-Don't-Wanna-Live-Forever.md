@@ -1,7 +1,7 @@
 ---
 title: I Don't Wanna Live Forever
 categories:
-- Fifty Shades Darker Original Motion Picture Soundtrack
+- Single
 feature_image: https://upload.wikimedia.org/wikipedia/en/8/82/Zayn_%26_Taylor_Swift_-_I_Don%27t_Wanna_Live_Forever_%28Official_Single_Cover%29.png
 --- 
 Been sitting eyes wide open behind these four walls, hoping you'd call
