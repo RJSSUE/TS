@@ -104,4 +104,4 @@ Burn, burn, burn, baby, burn
 You're just another picture to burn
 
 Baby, burn...
-{% include video.html id=yCMqcFAigRg}
+{% include video.html id="yCMqcFAigRg" %}

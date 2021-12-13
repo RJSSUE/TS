@@ -142,4 +142,4 @@ We are too busy dancing to get knocked off our feet
 Baby, we're the new romantics
 
 The best people in life are free
-{% include video.html id=wyK7YuwUWsU}
+{% include video.html id="wyK7YuwUWsU" %}
