@@ -2,7 +2,6 @@
 title: Breathe (Taylor’s Version)
 categories:
 - Fearless (Taylor’s Version)
-- track 7
 feature_image: https://upload.wikimedia.org/wikipedia/en/5/5b/Fearless_%28Taylor%27s_Version%29_%282021_album_cover%29_by_Taylor_Swift.png
 --- 
 I see your face in my mind as I drive away

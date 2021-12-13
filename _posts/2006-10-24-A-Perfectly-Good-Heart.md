@@ -2,7 +2,6 @@
 title: A Perfectly Good Heart
 categories:
 - Taylor Swift
-- track 14
 feature_image: https://upload.wikimedia.org/wikipedia/zh/0/00/Taylor_Swift_album.jpg
 --- 
 Why would you wanna break a perfectly good heart?
