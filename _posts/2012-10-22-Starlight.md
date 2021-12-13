@@ -2,7 +2,7 @@
 title: Starlight
 categories:
 - Red (Taylor’s Version)
-feature_image: https://upload.wikimedia.org/wikipedia/en/e/e8/Taylor_Swift_-_Red.png
+feature_image: https://upload.wikimedia.org/wikipedia/en/4/47/Taylor_Swift_-_Red_%28Taylor%27s_Version%29.png
 --- 
 I said, "Oh, my, what a marvelous tune"
 
@@ -99,3 +99,6 @@ Like we dream impossible dreams
 Don't you see the starlight, starlight?
 
 Don't you dream impossible things?
+
+
+ {% include figure.html image="https://upload.wikimedia.org/wikipedia/en/e/e8/Taylor_Swift_-_Red.png" caption="Original 2012-10-22 Re-recording 2021-11-12" %}

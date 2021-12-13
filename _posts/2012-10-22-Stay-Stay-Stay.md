@@ -2,7 +2,7 @@
 title: Stay Stay Stay
 categories:
 - Red (Taylor’s Version)
-feature_image: https://upload.wikimedia.org/wikipedia/en/e/e8/Taylor_Swift_-_Red.png
+feature_image: https://upload.wikimedia.org/wikipedia/en/4/47/Taylor_Swift_-_Red_%28Taylor%27s_Version%29.png
 --- 
 I'm pretty sure we almost broke up last night
 
@@ -85,3 +85,6 @@ You think that it's funny when I'm mad, mad, mad
 But I think that it's best if we both stay
 
 (Ha-ha-ha, it's so fun)
+
+
+ {% include figure.html image="https://upload.wikimedia.org/wikipedia/en/e/e8/Taylor_Swift_-_Red.png" caption="Original 2012-10-22 Re-recording 2021-11-12" %}

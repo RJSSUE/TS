@@ -2,7 +2,7 @@
 title: All Too Well
 categories:
 - Red (Taylor’s Version)
-feature_image: https://upload.wikimedia.org/wikipedia/en/e/e8/Taylor_Swift_-_Red.png
+feature_image: https://upload.wikimedia.org/wikipedia/en/4/47/Taylor_Swift_-_Red_%28Taylor%27s_Version%29.png
 --- 
 I walked through the door with you, the air was cold
 
@@ -119,3 +119,6 @@ You remember it all
 It was rare, I was there
 
 I remember it all too well
+
+
+ {% include figure.html image="https://upload.wikimedia.org/wikipedia/en/e/e8/Taylor_Swift_-_Red.png" caption="Original 2012-10-22 Re-recording 2021-11-12" %}

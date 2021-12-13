@@ -2,7 +2,7 @@
 title: Treacherous
 categories:
 - Red (Taylor’s Version)
-feature_image: https://upload.wikimedia.org/wikipedia/en/e/e8/Taylor_Swift_-_Red.png
+feature_image: https://upload.wikimedia.org/wikipedia/en/4/47/Taylor_Swift_-_Red_%28Taylor%27s_Version%29.png
 --- 
 Put your lips close to mine
 
@@ -97,3 +97,6 @@ I'll follow you, follow you home
 This slope is treacherous
 
 I-I-I like it
+
+
+ {% include figure.html image="https://upload.wikimedia.org/wikipedia/en/e/e8/Taylor_Swift_-_Red.png" caption="Original 2012-10-22 Re-recording 2021-11-12" %}

@@ -2,7 +2,7 @@
 title: The Lucky One
 categories:
 - Red (Taylor’s Version)
-feature_image: https://upload.wikimedia.org/wikipedia/en/e/e8/Taylor_Swift_-_Red.png
+feature_image: https://upload.wikimedia.org/wikipedia/en/4/47/Taylor_Swift_-_Red_%28Taylor%27s_Version%29.png
 --- 
 New to town with a made up name
 
@@ -81,3 +81,6 @@ Yeah, they’ll tell you now, you’re the lucky one
 And they’ll tell you now, you’re the lucky one, oh, oh, oh
 
 Oh, whoa, oh, oh
+
+
+ {% include figure.html image="https://upload.wikimedia.org/wikipedia/en/e/e8/Taylor_Swift_-_Red.png" caption="Original 2012-10-22 Re-recording 2021-11-12" %}
