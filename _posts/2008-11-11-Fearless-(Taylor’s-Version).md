@@ -82,4 +82,6 @@ In a storm in my best dress, fearless
 Oh, oh
 
 Oh-oh, yeah
+
 {% include video.html id="ptSjNWnzpjg" %}
+

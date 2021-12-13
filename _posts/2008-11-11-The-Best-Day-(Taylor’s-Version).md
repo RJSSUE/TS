@@ -72,4 +72,6 @@ For staying back and watching me shine
 And I didn't know if you knew, so I'm taking this chance to say
 
 That I had the best day with you today
+
 {% include video.html id="l4_6eQm7RTQ" %}
+

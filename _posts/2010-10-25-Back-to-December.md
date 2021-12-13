@@ -104,4 +104,6 @@ I'd go back to December, turn around and change my own mind
 I go back to December all the time
 
 All the time
+
 {% include video.html id="QUwxKWT6m7U" %}
+

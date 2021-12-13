@@ -120,4 +120,6 @@ I don't know what to say since the twist of fate
 And the story of us looks a lot like a tragedy now
 
 The End
+
 {% include video.html id="nN6VR92V70M" %}
+

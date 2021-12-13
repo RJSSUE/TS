@@ -78,4 +78,6 @@ It's a revolution, throw your hands up
 And we'll sing hallelujah, we sang hallelujah
 
 Hallelujah
+
 {% include video.html id="B1jYllE0T-k" %}
+

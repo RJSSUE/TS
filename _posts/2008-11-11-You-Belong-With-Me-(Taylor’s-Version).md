@@ -102,4 +102,6 @@ Have you ever thought just maybe
 You belong with me?
 
 You belong with me
+
 {% include video.html id="VuNIsY6JdUw" %}
+

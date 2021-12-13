@@ -104,4 +104,6 @@ Your very first day
 Take a deep breath, girl
 
 Take a deep breath as you walk through the doors
+
 {% include video.html id="Pb-K2tXWK4w" %}
+
