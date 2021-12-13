@@ -2,9 +2,9 @@
 title: Tim McGraw
 categories:
 - Taylor Swift
+- track 1
+feature_image: https://upload.wikimedia.org/wikipedia/zh/0/00/Taylor_Swift_album.jpg
 --- 
-{% include figure.html image="https://upload.wikimedia.org/wikipedia/zh/0/00/Taylor_Swift_album.jpg" caption="Image with caption" width="300" height="800" %}
-
 He said the way my blue eyes shined
 
 Put those Georgia stars to shame that night
@@ -114,5 +114,4 @@ He said the way my blue eyes shined
 Put those Georgia stars to shame that night
 
 I said, "That's a lie"
-
-{% include video.html id="GkD20ajVxnY"}
+{% include video.html id=GkD20ajVxnY}
