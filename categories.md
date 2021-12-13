@@ -1,6 +1,0 @@
----
-title: Albums
-layout: categories
-excerpt: "Category index"
-aside: true
----
