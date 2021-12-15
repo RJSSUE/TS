@@ -20,6 +20,9 @@
     .then(data => pages.push(...data))
 
   function findResults(termToMatch, pages) {
+    pages.map(item=>{
+      console.log(item.title+", "+item.url)
+    })
     return pages.filter(item => {
       const regex = new RegExp(termToMatch, 'gi');
       return item.title.match(regex) || item.content.match(regex);
