@@ -6,17 +6,77 @@ aside: true
 - Genre
   - Country
     - [Taylor Swift](https://rjssue.github.io/TS/albums/#taylor-swift)
+
+    <figure class="figure  figure--center">
+      <img class="image" src="https://upload.wikimedia.org/wikipedia/zh/0/00/Taylor_Swift_album.jpg">
+      <figcaption class="caption">Taylor Swift Album Cover</figcaption>
+    </figure>
+
     - [Fearless](https://rjssue.github.io/TS/albums/#fearless-taylor-s-version)
+
+    <figure class="figure  figure--center">
+      <img class="image" src="https://upload.wikimedia.org/wikipedia/en/8/86/Taylor_Swift_-_Fearless.png">
+      <figcaption class="caption">Fearless Album Cover</figcaption>
+    </figure>
+    <figure class="figure  figure--center">
+      <img class="image" src="https://upload.wikimedia.org/wikipedia/en/5/5b/Fearless_%28Taylor%27s_Version%29_%282021_album_cover%29_by_Taylor_Swift.png">
+      <figcaption class="caption">Fearless (Taylor's Version) Album Cover</figcaption>
+    </figure>
+
     - [Speak Now](https://rjssue.github.io/TS/albums/#speak-now-deluxe)
+
+    <figure class="figure  figure--center">
+      <img class="image" src="https://upload.wikimedia.org/wikipedia/en/8/8f/Taylor_Swift_-_Speak_Now_cover.png">
+      <figcaption class="caption">Speak Now Album Cover</figcaption>
+    </figure>
+
     - [Red](https://rjssue.github.io/TS/albums/#red-taylor-s-version)
+
+    <figure class="figure  figure--center">
+      <img class="image" src="https://upload.wikimedia.org/wikipedia/en/e/e8/Taylor_Swift_-_Red.png">
+      <figcaption class="caption">Red Album Cover</figcaption>
+    </figure>
+    <figure class="figure  figure--center">
+      <img class="image" src="https://upload.wikimedia.org/wikipedia/en/4/47/Taylor_Swift_-_Red_%28Taylor%27s_Version%29.png">
+      <figcaption class="caption">Red (Taylor's Version) Album Cover</figcaption>
+    </figure>
+
   - Pop
-    - [Red](https://rjssue.github.io/TS/albums/#red-taylor-s-version)
     - [1989](https://rjssue.github.io/TS/albums/#1989-deluxe)
+
+    <figure class="figure  figure--center">
+      <img class="image" src="https://upload.wikimedia.org/wikipedia/en/f/f6/Taylor_Swift_-_1989.png">
+      <figcaption class="caption">1989 Album Cover</figcaption>
+    </figure>
+
     - [Reputation](https://rjssue.github.io/TS/albums/#reputation)
+
+    <figure class="figure  figure--center">
+      <img class="image" src="https://upload.wikimedia.org/wikipedia/en/f/f2/Taylor_Swift_-_Reputation.png">
+      <figcaption class="caption">Reputation Album Cover</figcaption>
+    </figure>
+
     - [Lover](https://rjssue.github.io/TS/albums/#lover)
+
+    <figure class="figure  figure--center">
+      <img class="image" src="https://upload.wikimedia.org/wikipedia/en/c/cd/Taylor_Swift_-_Lover.png">
+      <figcaption class="caption">Lover Album Cover</figcaption>
+    </figure>
+
   - Alternative Rock
     - [Folklore](https://rjssue.github.io/TS/albums/#folklore-deluxe-version)
+
+    <figure class="figure  figure--center">
+      <img class="image" src="https://upload.wikimedia.org/wikipedia/en/f/f8/Taylor_Swift_-_Folklore.png">
+      <figcaption class="caption">Folklore Album Cover</figcaption>
+    </figure>
+
     - [Evermore](https://rjssue.github.io/TS/albums/#evermore-deluxe-version)
+
+    <figure class="figure  figure--center">
+      <img class="image" src="https://upload.wikimedia.org/wikipedia/en/0/0a/Taylor_Swift_-_Evermore.png">
+      <figcaption class="caption">Evermore Album Cover</figcaption>
+    </figure>
 
 - Theme
   - love
@@ -83,7 +143,7 @@ aside: true
       - [Ronan](https://rjssue.github.io/TS/red%20(taylor%E2%80%99s%20version)/2012/10/22/Ronan/) 
       - [Soon You’ll Get Better](https://rjssue.github.io/TS/lover/2019/08/23/Soon-You-ll-Get-Better/)
   - fame
-    - Revenge
+    - revenge
       - [Look What You Made Me Do](https://rjssue.github.io/TS/reputation/2017/11/10/Look-What-You-Made-Me-Do/)
       - [Better Than Revenge](https://rjssue.github.io/TS/speak%20now%20(deluxe)/2010/10/25/Better-Than-Revenge/)
       - [...Ready for It?](https://rjssue.github.io/TS/reputation/2017/11/10/Ready-for-It/)
@@ -100,79 +160,4 @@ aside: true
     - [ME!](https://rjssue.github.io/TS/lover/2019/08/23/ME/) 
     - [You Need To Calm Down](https://rjssue.github.io/TS/lover/2019/08/23/You-Need-To-Calm-Down/)
 
-- [Albums](https://rjssue.github.io/TS/albums/)
 
-    - [Taylor Swift](https://rjssue.github.io/TS/albums/#taylor-swift)
-
-  <figure class="figure  figure--center">
-    <img class="image" src="https://upload.wikimedia.org/wikipedia/zh/0/00/Taylor_Swift_album.jpg">
-    <figcaption class="caption">Taylor Swift Album Cover</figcaption>
-  </figure>
-
-    - [Fearless](https://rjssue.github.io/TS/albums/#fearless-taylor-s-version)
-
-    <figure class="figure  figure--center">
-      <img class="image" src="https://upload.wikimedia.org/wikipedia/en/8/86/Taylor_Swift_-_Fearless.png">
-      <figcaption class="caption">Fearless Album Cover</figcaption>
-    </figure>
-    <figure class="figure  figure--center">
-      <img class="image" src="https://upload.wikimedia.org/wikipedia/en/5/5b/Fearless_%28Taylor%27s_Version%29_%282021_album_cover%29_by_Taylor_Swift.png">
-      <figcaption class="caption">Fearless (Taylor's Version) Album Cover</figcaption>
-    </figure>
-
-    - [Speak Now](https://rjssue.github.io/TS/albums/#speak-now-deluxe)
-
-  <figure class="figure  figure--center">
-    <img class="image" src="https://upload.wikimedia.org/wikipedia/en/8/8f/Taylor_Swift_-_Speak_Now_cover.png">
-    <figcaption class="caption">Speak Now Album Cover</figcaption>
-  </figure>
-
-    - [Red](https://rjssue.github.io/TS/albums/#red-taylor-s-version)
-
-    <figure class="figure  figure--center">
-      <img class="image" src="https://upload.wikimedia.org/wikipedia/en/e/e8/Taylor_Swift_-_Red.png">
-      <figcaption class="caption">Red Album Cover</figcaption>
-    </figure>
-    <figure class="figure  figure--center">
-      <img class="image" src="https://upload.wikimedia.org/wikipedia/en/4/47/Taylor_Swift_-_Red_%28Taylor%27s_Version%29.png">
-      <figcaption class="caption">Red (Taylor's Version) Album Cover</figcaption>
-    </figure>
-
-    - [1989](https://rjssue.github.io/TS/albums/#1989-deluxe)
-
-  <figure class="figure  figure--center">
-    <img class="image" src="https://upload.wikimedia.org/wikipedia/en/f/f6/Taylor_Swift_-_1989.png">
-    <figcaption class="caption">1989 Album Cover</figcaption>
-  </figure>
-
-    - [Reputation](https://rjssue.github.io/TS/albums/#reputation)
-
-  <figure class="figure  figure--center">
-    <img class="image" src="https://upload.wikimedia.org/wikipedia/en/f/f2/Taylor_Swift_-_Reputation.png">
-    <figcaption class="caption">Reputation Album Cover</figcaption>
-  </figure>
-
-    - [Lover](https://rjssue.github.io/TS/albums/#lover)
-
-  <figure class="figure  figure--center">
-    <img class="image" src="https://upload.wikimedia.org/wikipedia/en/c/cd/Taylor_Swift_-_Lover.png">
-    <figcaption class="caption">Lover Album Cover</figcaption>
-  </figure>
-
-    - [Folklore](https://rjssue.github.io/TS/albums/#folklore-deluxe-version)
-
-  <figure class="figure  figure--center">
-    <img class="image" src="https://upload.wikimedia.org/wikipedia/en/f/f8/Taylor_Swift_-_Folklore.png">
-    <figcaption class="caption">Folklore Album Cover</figcaption>
-  </figure>
-
-    - [Evermore](https://rjssue.github.io/TS/albums/#evermore-deluxe-version)
-
-  <figure class="figure  figure--center">
-    <img class="image" src="https://upload.wikimedia.org/wikipedia/en/0/0a/Taylor_Swift_-_Evermore.png">
-    <figcaption class="caption">Evermore Album Cover</figcaption>
-  </figure>
-
-    - [Other Singles](https://rjssue.github.io/TS/albums/#single)
-
-  <script type="text/javascript" src="{{ "/assets/scripts/print.js" | relative_url }}"></script>
