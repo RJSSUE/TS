@@ -12,41 +12,42 @@ aside: true
 
   {% include figure.html image="https://upload.wikimedia.org/wikipedia/zh/0/00/Taylor_Swift_album.jpg" caption="Taylor Swift Album Cover" %}
 
+    - 
     - [Fearless](https://rjssue.github.io/TS/albums/#fearless-taylor-s-version)
 
   {% include figure.html image="https://upload.wikimedia.org/wikipedia/en/8/86/Taylor_Swift_-_Fearless.png" caption="Fearless Album Cover" position="left" %}
 
   {% include figure.html image="https://upload.wikimedia.org/wikipedia/en/5/5b/Fearless_%28Taylor%27s_Version%29_%282021_album_cover%29_by_Taylor_Swift.png" caption="Fearless \(Taylor's Version\) Album Cover" position="right" %}
-
+    - a
     - [Speak Now](https://rjssue.github.io/TS/albums/#speak-now-deluxe)
 
-    {% include figure.html image="https://upload.wikimedia.org/wikipedia/en/8/8f/Taylor_Swift_-_Speak_Now_cover.png" caption="Speak Now Album Cover" %}
+  {% include figure.html image="https://upload.wikimedia.org/wikipedia/en/8/8f/Taylor_Swift_-_Speak_Now_cover.png" caption="Speak Now Album Cover" %}
 
     - [Red](https://rjssue.github.io/TS/albums/#red-taylor-s-version)
 
-    {% include figure.html image="https://upload.wikimedia.org/wikipedia/en/e/e8/Taylor_Swift_-_Red.png" caption="Red Album Cover" position="left" %}
+  {% include figure.html image="https://upload.wikimedia.org/wikipedia/en/e/e8/Taylor_Swift_-_Red.png" caption="Red Album Cover" position="left" %}
 
-    {% include figure.html image="https://upload.wikimedia.org/wikipedia/en/4/47/Taylor_Swift_-_Red_%28Taylor%27s_Version%29.png" caption="Red \(Taylor's Version\) Album Cover" position="right" %}
+  {% include figure.html image="https://upload.wikimedia.org/wikipedia/en/4/47/Taylor_Swift_-_Red_%28Taylor%27s_Version%29.png" caption="Red \(Taylor's Version\) Album Cover" position="right" %}
 
     - [1989](https://rjssue.github.io/TS/albums/#1989-deluxe)
 
-    {% include figure.html image="https://upload.wikimedia.org/wikipedia/en/f/f6/Taylor_Swift_-_1989.png" caption="1989 Album Cover" %}
+  {% include figure.html image="https://upload.wikimedia.org/wikipedia/en/f/f6/Taylor_Swift_-_1989.png" caption="1989 Album Cover" %}
 
     - [Reputation](https://rjssue.github.io/TS/albums/#reputation)
 
-    {% include figure.html image="https://upload.wikimedia.org/wikipedia/en/f/f2/Taylor_Swift_-_Reputation.png" caption="Reputation Album Cover" %}
+  {% include figure.html image="https://upload.wikimedia.org/wikipedia/en/f/f2/Taylor_Swift_-_Reputation.png" caption="Reputation Album Cover" %}
 
     - [Lover](https://rjssue.github.io/TS/albums/#lover)
 
-    {% include figure.html image="https://upload.wikimedia.org/wikipedia/en/c/cd/Taylor_Swift_-_Lover.png" caption="Lover Album Cover" %}
+  {% include figure.html image="https://upload.wikimedia.org/wikipedia/en/c/cd/Taylor_Swift_-_Lover.png" caption="Lover Album Cover" %}
 
     - [Folklore](https://rjssue.github.io/TS/albums/#folklore-deluxe-version)
 
-    {% include figure.html image="https://upload.wikimedia.org/wikipedia/en/f/f8/Taylor_Swift_-_Folklore.png" caption="Folklore Album Cover" %}
+  {% include figure.html image="https://upload.wikimedia.org/wikipedia/en/f/f8/Taylor_Swift_-_Folklore.png" caption="Folklore Album Cover" %}
 
     - [Evermore](https://rjssue.github.io/TS/albums/#evermore-deluxe-version)
 
-    {% include figure.html image="https://upload.wikimedia.org/wikipedia/en/0/0a/Taylor_Swift_-_Evermore.png" caption="Evermore Album Cover" %}
+  {% include figure.html image="https://upload.wikimedia.org/wikipedia/en/0/0a/Taylor_Swift_-_Evermore.png" caption="Evermore Album Cover" %}
 
     - [Other Singles](https://rjssue.github.io/TS/albums/#single)
 
