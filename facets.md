@@ -10,46 +10,76 @@ aside: true
 
     - [Taylor Swift](https://rjssue.github.io/TS/albums/#taylor-swift)
 
-  <figure class="figure  figure--{{ include.position | default: 'center' }}">
-    <img class="image" src="https://upload.wikimedia.org/wikipedia/zh/0/00/Taylor_Swift_album.jpg" alt="{{ include.alt | default: include.caption }}" {{ include.width ? include.width | prepend: 'width="' | append: '"' }} {{ include.height ? include.height | prepend: 'height="' | append: '"' }}>
+  <figure class="figure  figure--center">
+    <img class="image" src="https://upload.wikimedia.org/wikipedia/zh/0/00/Taylor_Swift_album.jpg">
     <figcaption class="caption">Taylor Swift Album Cover</figcaption>
   </figure>
   
     - [Fearless](https://rjssue.github.io/TS/albums/#fearless-taylor-s-version)
 
-  {% include figure.html image="https://upload.wikimedia.org/wikipedia/en/8/86/Taylor_Swift_-_Fearless.png" caption="Fearless Album Cover" position="left" %}
+  <figure class="figure  figure--left">
+    <img class="image" src="https://upload.wikimedia.org/wikipedia/en/8/86/Taylor_Swift_-_Fearless.png">
+    <figcaption class="caption">Fearless Album Cover</figcaption>
+  </figure>
 
-  {% include figure.html image="https://upload.wikimedia.org/wikipedia/en/5/5b/Fearless_%28Taylor%27s_Version%29_%282021_album_cover%29_by_Taylor_Swift.png" caption="Fearless (Taylor's Version) Album Cover" position="right" %}
-    - a
+  <figure class="figure  figure--right">
+    <img class="image" src="https://upload.wikimedia.org/wikipedia/en/5/5b/Fearless_%28Taylor%27s_Version%29_%282021_album_cover%29_by_Taylor_Swift.png">
+    <figcaption class="caption">Fearless (Taylor's Version) Album Cover</figcaption>
+  </figure>
+
     - [Speak Now](https://rjssue.github.io/TS/albums/#speak-now-deluxe)
 
-  {% include figure.html image="https://upload.wikimedia.org/wikipedia/en/8/8f/Taylor_Swift_-_Speak_Now_cover.png" caption="Speak Now Album Cover" %}
+  <figure class="figure  figure--center">
+    <img class="image" src="https://upload.wikimedia.org/wikipedia/en/8/8f/Taylor_Swift_-_Speak_Now_cover.png">
+    <figcaption class="caption">Speak Now Album Cover</figcaption>
+  </figure>
 
     - [Red](https://rjssue.github.io/TS/albums/#red-taylor-s-version)
 
-  {% include figure.html image="https://upload.wikimedia.org/wikipedia/en/e/e8/Taylor_Swift_-_Red.png" caption="Red Album Cover" position="left" %}
+  <figure class="figure  figure--left">
+    <img class="image" src="https://upload.wikimedia.org/wikipedia/en/e/e8/Taylor_Swift_-_Red.png">
+    <figcaption class="caption">Red Album Cover</figcaption>
+  </figure>
 
-  {% include figure.html image="https://upload.wikimedia.org/wikipedia/en/4/47/Taylor_Swift_-_Red_%28Taylor%27s_Version%29.png" caption="Red (Taylor's Version) Album Cover" position="right" %}
+  <figure class="figure  figure--right">
+    <img class="image" src="https://upload.wikimedia.org/wikipedia/en/4/47/Taylor_Swift_-_Red_%28Taylor%27s_Version%29.png">
+    <figcaption class="caption">Red (Taylor's Version) Album Cover</figcaption>
+  </figure>
 
     - [1989](https://rjssue.github.io/TS/albums/#1989-deluxe)
 
-  {% include figure.html image="https://upload.wikimedia.org/wikipedia/en/f/f6/Taylor_Swift_-_1989.png" caption="1989 Album Cover" %}
+  <figure class="figure  figure--center">
+    <img class="image" src="https://upload.wikimedia.org/wikipedia/en/f/f6/Taylor_Swift_-_1989.png">
+    <figcaption class="caption">1989 Album Cover</figcaption>
+  </figure>
 
     - [Reputation](https://rjssue.github.io/TS/albums/#reputation)
 
-  {% include figure.html image="https://upload.wikimedia.org/wikipedia/en/f/f2/Taylor_Swift_-_Reputation.png" caption="Reputation Album Cover" %}
+  <figure class="figure  figure--center">
+    <img class="image" src="https://upload.wikimedia.org/wikipedia/en/f/f2/Taylor_Swift_-_Reputation.png">
+    <figcaption class="caption">Reputation Album Cover</figcaption>
+  </figure>
 
     - [Lover](https://rjssue.github.io/TS/albums/#lover)
 
-  {% include figure.html image="https://upload.wikimedia.org/wikipedia/en/c/cd/Taylor_Swift_-_Lover.png" caption="Lover Album Cover" %}
+  <figure class="figure  figure--center">
+    <img class="image" src="https://upload.wikimedia.org/wikipedia/en/c/cd/Taylor_Swift_-_Lover.png">
+    <figcaption class="caption">Lover Album Cover</figcaption>
+  </figure>
 
     - [Folklore](https://rjssue.github.io/TS/albums/#folklore-deluxe-version)
 
-  {% include figure.html image="https://upload.wikimedia.org/wikipedia/en/f/f8/Taylor_Swift_-_Folklore.png" caption="Folklore Album Cover" %}
+  <figure class="figure  figure--center">
+    <img class="image" src="https://upload.wikimedia.org/wikipedia/en/f/f8/Taylor_Swift_-_Folklore.png">
+    <figcaption class="caption">Folklore Album Cover</figcaption>
+  </figure>
 
     - [Evermore](https://rjssue.github.io/TS/albums/#evermore-deluxe-version)
 
-  {% include figure.html image="https://upload.wikimedia.org/wikipedia/en/0/0a/Taylor_Swift_-_Evermore.png" caption="Evermore Album Cover" %}
+  <figure class="figure  figure--center">
+    <img class="image" src="https://upload.wikimedia.org/wikipedia/en/0/0a/Taylor_Swift_-_Evermore.png">
+    <figcaption class="caption">Evermore Album Cover</figcaption>
+  </figure>
 
     - [Other Singles](https://rjssue.github.io/TS/albums/#single)
 
