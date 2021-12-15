@@ -1,12 +1,13 @@
 ---
 title: Facets
-feature_text:
-  A demo of Markdown and HTML includes
 feature_image: "https://picsum.photos/2560/600?image=873"
-excerpt: "A demo of Markdown and HTML includes"
 aside: true
 ---
 - [Albums](https://rjssue.github.io/TS/albums/)
+<ul class="accordion" data-accordion>
+  <li class="accordion-navigation">
+  <a href="#foldable"> 🔽 </a>
+  <div id="foldable">
 
     - [Taylor Swift](https://rjssue.github.io/TS/albums/#taylor-swift)
 
@@ -45,7 +46,7 @@ aside: true
     </figure>
 
     - [1989](https://rjssue.github.io/TS/albums/#1989-deluxe)
-    
+
   <figure class="figure  figure--center">
     <img class="image" src="https://upload.wikimedia.org/wikipedia/en/f/f6/Taylor_Swift_-_1989.png">
     <figcaption class="caption">1989 Album Cover</figcaption>
@@ -81,6 +82,14 @@ aside: true
 
     - [Other Singles](https://rjssue.github.io/TS/albums/#single)
 
+  </div>
+  </li>
+</ul>
+<script>
+$(document).ready(function() {
+    $(document).foundation();
+})
+</script>
 - Theme
     - love
         - falling in love
