@@ -3,66 +3,104 @@ title: Facets
 feature_image: "https://picsum.photos/2560/600?image=873"
 aside: true
 ---
-<ul class="accordion" data-accordion>
-  <li class="accordion-navigation">
-    <a href="#themes">Theme</a>
-    <div id="themes" class="content">
-      <ul>
-        <li>
-          <a href="#loves">Love</a>
-          <div id="loves" class="content">
-            <ul>
-              <li>
-              <a>falling in love</a>
-              <a>daily love life</a>
-              <a>fantasy</a>
-              </li>
-            </ul>
-          </div>
-        </li>
-      </ul>
-    </div>
-  </li>
-</ul>
-
-<!-- 初始化 Foundation JS -->
-<script>
-$(document).ready(function() {
-    $(document).foundation();
-})
-</script>
+- Genre
+  - Country
+    - [Taylor Swift](https://rjssue.github.io/TS/albums/#taylor-swift)
+    - [Fearless](https://rjssue.github.io/TS/albums/#fearless-taylor-s-version)
+    - [Speak Now](https://rjssue.github.io/TS/albums/#speak-now-deluxe)
+    - [Red](https://rjssue.github.io/TS/albums/#red-taylor-s-version)
+  - Pop
+    - [Red](https://rjssue.github.io/TS/albums/#red-taylor-s-version)
+    - [1989](https://rjssue.github.io/TS/albums/#1989-deluxe)
+    - [Reputation](https://rjssue.github.io/TS/albums/#reputation)
+    - [Lover](https://rjssue.github.io/TS/albums/#lover)
+  - Alternative Rock
+    - [Folklore](https://rjssue.github.io/TS/albums/#folklore-deluxe-version)
+    - [Evermore](https://rjssue.github.io/TS/albums/#evermore-deluxe-version)
 
 - Theme
-    - love
-        - falling in love
-        - daily love life
-        - fantasy
-    - break-up
-        - apology
-        - redeem
-        - reflection
-        - accusation
-    - death
-        - war
-        - pandemic
-        - cancer
-    - fame
-        - slander
-        - jealousy
-    - LGBT
-- Emotion
-    - happy
-    - sad
-    - angry
-    - yearning
-- Genre
-    - Pop
-    - Country
-    - Folk
+  - love
+    - falling in love
+      - [Enchanted](https://rjssue.github.io/TS/speak%20now%20(deluxe)/2010/10/25/Enchanted/)
+      - [Blank Space](https://rjssue.github.io/TS/1989%20(deluxe)/2014/10/27/Blank-Space/)
+      - [Delicate](https://rjssue.github.io/TS/1989%20(deluxe)/2014/10/27/Blank-Space/)
+      - [King of My Heart](https://rjssue.github.io/TS/reputation/2017/11/10/King-of-My-Heart/)
+    - daily love life
+      - [New Year's Day](https://rjssue.github.io/TS/reputation/2017/11/10/New-Year-s-Day/)
+      - [Ours](https://rjssue.github.io/TS/speak%20now%20(deluxe)/2010/10/25/Ours/)
+      - [Starlight](https://rjssue.github.io/TS/red%20(taylor%E2%80%99s%20version)/2012/10/22/Starlight/)
+      - [Red](https://rjssue.github.io/TS/red%20(taylor%E2%80%99s%20version)/2012/10/22/Red/)
+      - [Lover](https://rjssue.github.io/TS/lover/2019/08/23/Lover/)
+      - [Style](https://rjssue.github.io/TS/1989%20(deluxe)/2014/10/27/Style/)
+      - [You Are in Love](https://rjssue.github.io/TS/1989%20(deluxe)/2014/10/27/You-Are-in-Love/)
+      - [So It Goes...](https://rjssue.github.io/TS/reputation/2017/11/10/So-It-Goes/)
+      - [Dancing with Our Hands Tied](https://rjssue.github.io/TS/reputation/2017/11/10/Dancing-with-Our-Hands-Tied/)
+      - [Call It What You Want](https://rjssue.github.io/TS/reputation/2017/11/10/Call-It-What-You-Want/)
+      - [London Boy](https://rjssue.github.io/TS/lover/2019/08/23/London-Boy/)
+    - fantasy
+      - [Mary’s Song (Oh My My My)](https://rjssue.github.io/TS/taylor%20swift/2006/10/24/Mary-s-Song-(Oh-My-My-My)/)
+      - [Love Story](https://rjssue.github.io/TS/fearless%20(taylor%E2%80%99s%20version)/2008/11/11/Love-Story/)
+      - [End Game](https://rjssue.github.io/TS/reputation/2017/11/10/End-Game/)
+      - [Teardrops on My Guitar](https://rjssue.github.io/TS/taylor%20swift/2006/10/24/Teardrops-On-My-Guitar/)
+      - [Gorgeous](https://rjssue.github.io/TS/reputation/2017/11/10/Gorgeous/)
+      - [White Horse](https://rjssue.github.io/TS/fearless%20(taylor%E2%80%99s%20version)/2008/11/11/White-Horse/)
+      - [The 1](https://rjssue.github.io/TS/folklore%20(deluxe%20version)/2020/07/24/the-1/)
+      - [Today Was a Fairytale](https://rjssue.github.io/TS/fearless%20(taylor%E2%80%99s%20version)/2008/11/11/Today-Was-a-Fairytale/)
+      - [Wildest Dreams](https://rjssue.github.io/TS/1989%20(deluxe)/2014/10/27/Wildest-Dreams/)
+      - [If This Was a Movie](https://rjssue.github.io/TS/speak%20now%20(deluxe)/2010/10/25/If-This-Was-a-Movie/)
+      - [Paper Rings](https://rjssue.github.io/TS/lover/2019/08/23/Paper-Rings/)
+  - break-up
+    - apology
+      - [Back to December](https://rjssue.github.io/TS/speak%20now%20(deluxe)/2010/10/25/Back-to-December/)
+      - [Come Back... Be Here](https://rjssue.github.io/TS/red%20(taylor%E2%80%99s%20version)/2012/10/22/Come-Back/.-Be-Here/)
+      - [I Wish You Would](https://rjssue.github.io/TS/1989%20(deluxe)/2014/10/27/I-Wish-You-Would/)
+      - [Haunted](https://rjssue.github.io/TS/speak%20now%20(deluxe)/2010/10/25/Haunted/)
+      - [​Coney Island](https://rjssue.github.io/TS/evermore%20(deluxe%20version)/2020/12/11/coney-island/)
+    - reflection
+      - [All Too Well](https://rjssue.github.io/TS/red%20(taylor%E2%80%99s%20version)/2012/10/22/All-Too-Well-(10-Minute-Version)/)
+      - [Better Man](https://rjssue.github.io/TS/red%20(taylor%E2%80%99s%20version)/2012/10/22/Better-Man/)
+      - [Happiness](https://rjssue.github.io/TS/evermore%20(deluxe%20version)/2020/12/11/happiness/)
+      - [The Moment I knew](https://rjssue.github.io/TS/red%20(taylor%E2%80%99s%20version)/2012/10/22/The-Moment-I-Knew/)
+      - [I Knew You Were Trouble](https://rjssue.github.io/TS/red%20(taylor%E2%80%99s%20version)/2012/10/22/I-Knew-You-Were-Trouble/)
+      - [Sad Beautiful Tragic](https://rjssue.github.io/TS/red%20(taylor%E2%80%99s%20version)/2012/10/22/Sad-Beautiful-Tragic/)
+      - [Everything Has Changed](https://rjssue.github.io/TS/red%20(taylor%E2%80%99s%20version)/2012/10/22/Everything-Has-Changed/)
+      - [Clean](https://rjssue.github.io/TS/1989%20(deluxe)/2014/10/27/Clean/)
+      - [I Forgot That You Existed](https://rjssue.github.io/TS/lover/2019/08/23/I-Forgot-That-You-Existed/)
+      - [The Archer](https://rjssue.github.io/TS/lover/2019/08/23/The-Archer/)
+      - [Cornelia Street](https://rjssue.github.io/TS/lover/2019/08/23/Cornelia-Street/)
+      - [​Tolerate It](https://rjssue.github.io/TS/evermore%20(deluxe%20version)/2020/12/11/tolerate-it/)
+    - accusation
+      - [Picture to Burn](https://rjssue.github.io/TS/taylor%20swift/2006/10/24/Picture-To-Burn/)
+      - [Should've Said No](https://rjssue.github.io/TS/taylor%20swift/2006/10/24/Should've-Said-No/)
+      - [Mr. Perfectly Fine](https://rjssue.github.io/TS/fearless%20(taylor%E2%80%99s%20version)/2008/11/11/Mr.-Perfectly-Fine/)
+      - [We Are Never Ever Getting Back Together](https://rjssue.github.io/TS/red%20(taylor%E2%80%99s%20version)/2012/10/22/We-Are-Never-Ever-Getting-Back-Together/)
+      - [Death by a Thousand Cuts](https://rjssue.github.io/TS/lover/2019/08/23/Death-by-a-Thousand-Cuts/)
+  - death
+    - war
+      - [Safe & Sound](https://rjssue.github.io/TS/single/2011/12/26/Safe-&-Sound/)
+      - [E​piphany](https://rjssue.github.io/TS/folklore%20(deluxe%20version)/2020/07/24/epiphany/)
+    - cancer
+      - [Ronan](https://rjssue.github.io/TS/red%20(taylor%E2%80%99s%20version)/2012/10/22/Ronan/) 
+      - [Soon You’ll Get Better](https://rjssue.github.io/TS/lover/2019/08/23/Soon-You-ll-Get-Better/)
+  - fame
+    - Revenge
+      - [Look What You Made Me Do](https://rjssue.github.io/TS/reputation/2017/11/10/Look-What-You-Made-Me-Do/)
+      - [Better Than Revenge](https://rjssue.github.io/TS/speak%20now%20(deluxe)/2010/10/25/Better-Than-Revenge/)
+      - [...Ready for It?](https://rjssue.github.io/TS/reputation/2017/11/10/Ready-for-It/)
+      - [I Did Something Bad](https://rjssue.github.io/TS/reputation/2017/11/10/I-Did-Something-Bad/)
+      - [My Tears Ricochet](https://rjssue.github.io/TS/folklore%20(deluxe%20version)/2020/07/24/my-tears-ricochet/)
+    - jealousy
+      - [Mean](https://rjssue.github.io/TS/speak%20now%20(deluxe)/2010/10/25/Mean/)
+    - feminism
+      - [Miss Americana & The Heartbreak Prince](https://rjssue.github.io/TS/lover/2019/08/23/Miss-Americana-&-The-Heartbreak-Prince/)
+      - [The Man](https://rjssue.github.io/TS/lover/2019/08/23/The-Man/)
+      - [Mad Woman](https://rjssue.github.io/TS/folklore%20(deluxe%20version)/2020/07/24/mad-woman/)
+      - [The Last Great American Dynasty](https://rjssue.github.io/TS/folklore%20(deluxe%20version)/2020/07/24/the-last-great-american-dynasty/)
+  - LGBT
+    - [ME!](https://rjssue.github.io/TS/lover/2019/08/23/ME/) 
+    - [You Need To Calm Down](https://rjssue.github.io/TS/lover/2019/08/23/You-Need-To-Calm-Down/)
 
 - [Albums](https://rjssue.github.io/TS/albums/)
-
-  <div id="foldable">
 
     - [Taylor Swift](https://rjssue.github.io/TS/albums/#taylor-swift)
 
@@ -137,4 +175,4 @@ $(document).ready(function() {
 
     - [Other Singles](https://rjssue.github.io/TS/albums/#single)
 
-  </div>
+  <script type="text/javascript" src="{{ "/assets/scripts/print.js" | relative_url }}"></script>
