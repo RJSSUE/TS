@@ -17,7 +17,7 @@ aside: true
   
     - [Fearless](https://rjssue.github.io/TS/albums/#fearless-taylor-s-version)
 
-  <p>
+  <div>
     <figure class="figure  figure--left">
       <img class="image" src="https://upload.wikimedia.org/wikipedia/en/8/86/Taylor_Swift_-_Fearless.png">
       <figcaption class="caption">Fearless Album Cover</figcaption>
@@ -26,7 +26,7 @@ aside: true
       <img class="image" src="https://upload.wikimedia.org/wikipedia/en/5/5b/Fearless_%28Taylor%27s_Version%29_%282021_album_cover%29_by_Taylor_Swift.png">
       <figcaption class="caption">Fearless (Taylor's Version) Album Cover</figcaption>
     </figure>
-  </p>
+  </div>
 
     - [Speak Now](https://rjssue.github.io/TS/albums/#speak-now-deluxe)
 
@@ -37,7 +37,7 @@ aside: true
 
     - [Red](https://rjssue.github.io/TS/albums/#red-taylor-s-version)
 
-  <p>
+  <div>
     <figure class="figure  figure--left">
       <img class="image" src="https://upload.wikimedia.org/wikipedia/en/e/e8/Taylor_Swift_-_Red.png">
       <figcaption class="caption">Red Album Cover</figcaption>
@@ -46,7 +46,7 @@ aside: true
       <img class="image" src="https://upload.wikimedia.org/wikipedia/en/4/47/Taylor_Swift_-_Red_%28Taylor%27s_Version%29.png">
       <figcaption class="caption">Red (Taylor's Version) Album Cover</figcaption>
     </figure>
-  </p>
+  </div>
 
     - [1989](https://rjssue.github.io/TS/albums/#1989-deluxe)
 

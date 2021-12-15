@@ -7,7 +7,7 @@
         {% assign has_categories = true %}
         <li class="item  item--post">
           <article class="article  article--post  typeset">
-            <script type="text/javascript">console.log(page.title+":"+site.baseurl+page.url)</script>
+            <script type="text/javascript">console.log({page}+":"+{site})</script>
             <h3><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h3>
             {% include post-meta.html %}
             {{ page.excerpt | truncatewords: 15 | markdownify }}
