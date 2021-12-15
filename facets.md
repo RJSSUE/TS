@@ -10,14 +10,16 @@ aside: true
 
     - [Taylor Swift](https://rjssue.github.io/TS/albums/#taylor-swift)
 
-  {% include figure.html image="https://upload.wikimedia.org/wikipedia/zh/0/00/Taylor_Swift_album.jpg" caption="Taylor Swift Album Cover" %}
-
-    - 
+  <figure class="figure  figure--{{ include.position | default: 'center' }}">
+    <img class="image" src="https://upload.wikimedia.org/wikipedia/zh/0/00/Taylor_Swift_album.jpg" alt="{{ include.alt | default: include.caption }}" {{ include.width ? include.width | prepend: 'width="' | append: '"' }} {{ include.height ? include.height | prepend: 'height="' | append: '"' }}>
+    <figcaption class="caption">Taylor Swift Album Cover</figcaption>
+  </figure>
+  
     - [Fearless](https://rjssue.github.io/TS/albums/#fearless-taylor-s-version)
 
   {% include figure.html image="https://upload.wikimedia.org/wikipedia/en/8/86/Taylor_Swift_-_Fearless.png" caption="Fearless Album Cover" position="left" %}
 
-  {% include figure.html image="https://upload.wikimedia.org/wikipedia/en/5/5b/Fearless_%28Taylor%27s_Version%29_%282021_album_cover%29_by_Taylor_Swift.png" caption="Fearless \(Taylor's Version\) Album Cover" position="right" %}
+  {% include figure.html image="https://upload.wikimedia.org/wikipedia/en/5/5b/Fearless_%28Taylor%27s_Version%29_%282021_album_cover%29_by_Taylor_Swift.png" caption="Fearless (Taylor's Version) Album Cover" position="right" %}
     - a
     - [Speak Now](https://rjssue.github.io/TS/albums/#speak-now-deluxe)
 
@@ -27,7 +29,7 @@ aside: true
 
   {% include figure.html image="https://upload.wikimedia.org/wikipedia/en/e/e8/Taylor_Swift_-_Red.png" caption="Red Album Cover" position="left" %}
 
-  {% include figure.html image="https://upload.wikimedia.org/wikipedia/en/4/47/Taylor_Swift_-_Red_%28Taylor%27s_Version%29.png" caption="Red \(Taylor's Version\) Album Cover" position="right" %}
+  {% include figure.html image="https://upload.wikimedia.org/wikipedia/en/4/47/Taylor_Swift_-_Red_%28Taylor%27s_Version%29.png" caption="Red (Taylor's Version) Album Cover" position="right" %}
 
     - [1989](https://rjssue.github.io/TS/albums/#1989-deluxe)
 
