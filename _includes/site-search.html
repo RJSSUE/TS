@@ -21,7 +21,7 @@
 
   function findResults(termToMatch, pages) {
     pages.map(item=>{
-      console.log(item.title+", "+item.url)
+      console.log(item.title+", "+item.url+", "+item.categories)
     })
     return pages.filter(item => {
       const regex = new RegExp(termToMatch, 'gi');

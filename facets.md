@@ -14,42 +14,38 @@ aside: true
     <img class="image" src="https://upload.wikimedia.org/wikipedia/zh/0/00/Taylor_Swift_album.jpg">
     <figcaption class="caption">Taylor Swift Album Cover</figcaption>
   </figure>
-  <div>
+
     - [Fearless](https://rjssue.github.io/TS/albums/#fearless-taylor-s-version)
-  </div>
-  <div>
-    <figure class="figure  figure--left">
+
+    <figure class="figure  figure--center">
       <img class="image" src="https://upload.wikimedia.org/wikipedia/en/8/86/Taylor_Swift_-_Fearless.png">
       <figcaption class="caption">Fearless Album Cover</figcaption>
     </figure>
-    <figure class="figure  figure--right">
+    <figure class="figure  figure--center">
       <img class="image" src="https://upload.wikimedia.org/wikipedia/en/5/5b/Fearless_%28Taylor%27s_Version%29_%282021_album_cover%29_by_Taylor_Swift.png">
       <figcaption class="caption">Fearless (Taylor's Version) Album Cover</figcaption>
     </figure>
-  </div>
-  <div>
+
     - [Speak Now](https://rjssue.github.io/TS/albums/#speak-now-deluxe)
-  </div>
+
   <figure class="figure  figure--center">
     <img class="image" src="https://upload.wikimedia.org/wikipedia/en/8/8f/Taylor_Swift_-_Speak_Now_cover.png">
     <figcaption class="caption">Speak Now Album Cover</figcaption>
   </figure>
-  <div>
+
     - [Red](https://rjssue.github.io/TS/albums/#red-taylor-s-version)
-  </div>
-  <div>
-    <figure class="figure  figure--left">
+
+    <figure class="figure  figure--center">
       <img class="image" src="https://upload.wikimedia.org/wikipedia/en/e/e8/Taylor_Swift_-_Red.png">
       <figcaption class="caption">Red Album Cover</figcaption>
     </figure>
-    <figure class="figure  figure--right">
+    <figure class="figure  figure--center">
       <img class="image" src="https://upload.wikimedia.org/wikipedia/en/4/47/Taylor_Swift_-_Red_%28Taylor%27s_Version%29.png">
       <figcaption class="caption">Red (Taylor's Version) Album Cover</figcaption>
     </figure>
-  </div>
-  <div>
+
     - [1989](https://rjssue.github.io/TS/albums/#1989-deluxe)
-  </div>
+    
   <figure class="figure  figure--center">
     <img class="image" src="https://upload.wikimedia.org/wikipedia/en/f/f6/Taylor_Swift_-_1989.png">
     <figcaption class="caption">1989 Album Cover</figcaption>
