@@ -7,7 +7,7 @@ aside: true
 <ul class="accordion" data-accordion>
   <li class="accordion-navigation">
   <a href="#foldable"> 🔽 </a>
-  <div id="foldable">
+  <div id="foldable" class="content">
 
     - [Taylor Swift](https://rjssue.github.io/TS/albums/#taylor-swift)
 
