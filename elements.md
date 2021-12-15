@@ -1,12 +1,53 @@
 ---
-title: Elements
-feature_text: |
+title: Facets
+feature_text:
   A demo of Markdown and HTML includes
 feature_image: "https://picsum.photos/2560/600?image=873"
 excerpt: "A demo of Markdown and HTML includes"
 aside: true
 ---
-
+- [Albums](https://rjssue.github.io/TS/albums/
+    - [Taylor Swift](https://rjssue.github.io/TS/albums/#taylor-swift)
+    {% include figure.html image="https://upload.wikimedia.org/wikipedia/zh/0/00/Taylor_Swift_album.jpg" caption="Taylor Swift Album Cover" %}
+    - [Fearless](https://rjssue.github.io/TS/albums/#fearless-taylor-s-version)
+    {% include figure.html image="https://upload.wikimedia.org/wikipedia/en/5/5b/Fearless_%28Taylor%27s_Version%29_%282021_album_cover%29_by_Taylor_Swift.png" caption="Fearless Album Cover" position="right" %}
+    - [Speak Now](https://rjssue.github.io/TS/albums/#speak-now-deluxe)
+    {% include figure.html image="https://upload.wikimedia.org/wikipedia/en/8/8f/Taylor_Swift_-_Speak_Now_cover.png" caption="Taylor Swift Album Cover" %}
+    - [Red](https://rjssue.github.io/TS/albums/#red-taylor-s-version)
+    - [1989](https://rjssue.github.io/TS/albums/#1989-deluxe)
+    - [Reputation](https://rjssue.github.io/TS/albums/#reputation)
+    - [Lover](https://rjssue.github.io/TS/albums/#lover)
+    - [Folklore](https://rjssue.github.io/TS/albums/#folklore-deluxe-version)
+    - [Evermore](https://rjssue.github.io/TS/albums/#evermore-deluxe-version)
+    - [Other Singles](https://rjssue.github.io/TS/albums/#single)
+) (9 in total) → position (track number) in the album
+- Theme
+    - love
+        - falling in love
+        - daily love life
+        - fantasy
+    - break-up
+        - apology
+        - redeem
+        - reflection
+        - accusation
+    - death
+        - war
+        - pandemic
+        - cancer
+    - fame
+        - slander
+        - jealousy
+    - LGBT
+- Emotion
+    - happy
+    - sad
+    - angry
+    - yearning
+- Genre
+    - Pop
+    - Country
+    - Folk
 # Heading 1
 
 ## Heading 2
