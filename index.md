@@ -11,7 +11,6 @@ The songlist section displays all songs in chronological order and supports the 
 The albums section displays all songs in waterfall format with the left sidebar displaying the albums category. Upon selecting one album, the list will jump to the specified location in the waterfall.
 ### Search
 The search section finds the presence of a phrase in the song name and/or lyrics. It supports regular expression matching.
-<>
 ## Credits
 - [lyrics data](https://www.kaggle.com/mpwolke/shake-it-off-ready-for-it/data)
 - [signature logo](https://www.pikpng.com/downpngs/xoRJob_taylor-taylor-swift-signature-red-clipart/)
